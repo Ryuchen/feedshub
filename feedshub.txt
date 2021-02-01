@@ -1,3 +1,7 @@
+CVE ->
+CVE Announcements Security Feeds -> https://t.me/joinchat/TlpEnCzAF5gIYoaO
+CVE Security Feeds -> https://t.me/cvesecurityfeeds
+
 CyberSec Company ->
 360 Netlab Security Feeds -> https://t.me/joinchat/RoEvIUD4ofDnQ1PB
 360 Threat Intel Security Feeds -> https://t.me/joinchat/TEVkzydVAtQLRFI0

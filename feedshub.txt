@@ -20,6 +20,10 @@ Positive Technologies Security Feeds -> https://t.me/joinchat/TCe0C8IDZcZu6UET
 Reversing Labs Security Feeds -> https://t.me/joinchat/S4BQF_ZZnPinlAV6
 Sophos Labs Security Feeds -> https://t.me/joinchat/Vm3GDdJcOcc7ctu0
 
+Linux Distro -> 
+Debian Security Feeds -> https://t.me/joinchat/R5URR1zrtpOMXFMV
+Ubuntu Security Feeds -> https://t.me/joinchat/TPtdlG--QxjlGOvP
+
 VPN ->
 AirVPN Feeds -> https://t.me/joinchat/U4zxyNXskSlbt4YV
 AzireVPN Feeds -> https://t.me/joinchat/V7UQWWRCstLK6OCl

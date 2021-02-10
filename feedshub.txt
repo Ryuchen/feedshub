@@ -41,9 +41,28 @@ Kaspersky Security Feeds -> https://t.me/joinchat/SuXXsmPQb0eHo0DF
 Malwarebytes Security Feeds -> https://t.me/joinchat/VUo2GujUvcP11_SJ
 Pan Unit42 Security Feeds -> https://t.me/joinchat/TFb4jHjxr61UM_OA
 Positive Technologies Security Feeds -> https://t.me/joinchat/TCe0C8IDZcZu6UET
+ReaQta Security Feeds -> https://t.me/joinchat/Vr7u_xKl32mpxGyy
 Reversing Labs Security Feeds -> https://t.me/joinchat/S4BQF_ZZnPinlAV6
 Sophos Labs Security Feeds -> https://t.me/joinchat/Vm3GDdJcOcc7ctu0
 Swascan Security Feeds -> https://t.me/joinchat/UihzryHmtPPaVgC4
+TG Soft Security Feeds -> https://t.me/joinchat/Uc30ikkk04w3h2bI
+Yoroi Security Feeds -> https://t.me/joinchat/Q8h6x-4_YRF3yQga
+
+Product -> 
+Cisco Security Feeds -> https://t.me/joinchat/TNbqwqSq4qYpRJKD
+
+
+
+
+News -> 
+The Hacker News Feeds -> https://t.me/joinchat/T8kN2uc__21VEG53
+BleepingComputer Feeds -> https://t.me/joinchat/R_wdNDAcSzvGu8JO
+OMG Ubuntu Feeds -> https://t.me/joinchat/TsAQBih-iIIR9frz
+
+
+
+
+
 
 Linux Distro -> 
 Debian Security Feeds -> https://t.me/joinchat/R5URR1zrtpOMXFMV

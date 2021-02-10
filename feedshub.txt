@@ -1,3 +1,23 @@
+National CERT ->
+BtCIRT Security Feeds -> https://t.me/joinchat/Q1rXCpY5e5Mc38PW
+CERT-AGID Security Feeds -> https://t.me/joinchat/R2znNV_B6vLQvmgt
+CERT-FR ICS Security Feeds -> https://t.me/joinchat/V1XnJszqWTbeP5EJ
+CERT-FR Security Feeds -> https://t.me/joinchat/S8HfXitrShOQppia
+CERT/CC Security Feeds -> https://t.me/joinchat/WNNT4QWb1xB4OH6S
+CSIRT-IT Security Feeds -> https://t.me/joinchat/TsVxrdQ6QT05Pbzr
+Canadian Cyber Security Feeds -> https://t.me/joinchat/ULyWtucTT9mXbE9M
+GARR Security Feeds -> https://t.me/joinchat/RHnGCYDYtwVcA5wl
+GovCERT.HK Security Feeds -> https://t.me/joinchat/SUPJpJwPpBXb6okO
+HKCERT Security Feeds -> https://t.me/joinchat/TxXgwxLgF9XL0vat
+ICS-CERT Security Feeds -> https://t.me/joinchat/SK6mBMkkzvQQbImI
+INCIBE-CERT Security Feeds -> https://t.me/joinchat/V_FCr2Q_iEtHtaDr
+INCIBE-ICS CERT Security Feeds -> https://t.me/joinchat/R-TlESQneTw0qlzT
+JPCERT/CC Security Feeds -> https://t.me/joinchat/WBFqCNEOv3USka0R
+JVN Security Feeds -> https://t.me/joinchat/VBb9Bzql4neajnwq
+NCSC NL Security Feeds -> https://t.me/joinchat/VJzP4mJbrad1oxME
+NCSC UK Security Feeds -> https://t.me/joinchat/Qvyu51jlk_3kAm2S
+US-Cert Security Feeds -> https://t.me/joinchat/UFVNKpNJFiFeVg8h
+
 CVE ->
 CVE Announcements Security Feeds -> https://t.me/joinchat/TlpEnCzAF5gIYoaO
 CVE Security Feeds -> https://t.me/cvesecurityfeeds
@@ -23,6 +43,7 @@ Pan Unit42 Security Feeds -> https://t.me/joinchat/TFb4jHjxr61UM_OA
 Positive Technologies Security Feeds -> https://t.me/joinchat/TCe0C8IDZcZu6UET
 Reversing Labs Security Feeds -> https://t.me/joinchat/S4BQF_ZZnPinlAV6
 Sophos Labs Security Feeds -> https://t.me/joinchat/Vm3GDdJcOcc7ctu0
+Swascan Security Feeds -> https://t.me/joinchat/UihzryHmtPPaVgC4
 
 Linux Distro -> 
 Debian Security Feeds -> https://t.me/joinchat/R5URR1zrtpOMXFMV

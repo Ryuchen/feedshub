@@ -6,6 +6,7 @@ CERT-FR Security Feeds -> https://t.me/joinchat/S8HfXitrShOQppia
 CERT/CC Security Feeds -> https://t.me/joinchat/WNNT4QWb1xB4OH6S
 CSIRT-IT Security Feeds -> https://t.me/joinchat/TsVxrdQ6QT05Pbzr
 Canadian Cyber Security Feeds -> https://t.me/joinchat/ULyWtucTT9mXbE9M
+FBI IC3 Security Feeds -> https://t.me/joinchat/V2aa1pY4URpBCn-S
 GARR Security Feeds -> https://t.me/joinchat/RHnGCYDYtwVcA5wl
 GovCERT.HK Security Feeds -> https://t.me/joinchat/SUPJpJwPpBXb6okO
 HKCERT Security Feeds -> https://t.me/joinchat/TxXgwxLgF9XL0vat
@@ -14,9 +15,11 @@ INCIBE-CERT Security Feeds -> https://t.me/joinchat/V_FCr2Q_iEtHtaDr
 INCIBE-ICS CERT Security Feeds -> https://t.me/joinchat/R-TlESQneTw0qlzT
 JPCERT/CC Security Feeds -> https://t.me/joinchat/WBFqCNEOv3USka0R
 JVN Security Feeds -> https://t.me/joinchat/VBb9Bzql4neajnwq
+MyCERT Security Feeds -> https://t.me/joinchat/TCbPViYgq5HIim8z
 NCSC NL Security Feeds -> https://t.me/joinchat/VJzP4mJbrad1oxME
 NCSC UK Security Feeds -> https://t.me/joinchat/Qvyu51jlk_3kAm2S
 US-Cert Security Feeds -> https://t.me/joinchat/UFVNKpNJFiFeVg8h
+
 
 CVE ->
 CVE Announcements Security Feeds -> https://t.me/joinchat/TlpEnCzAF5gIYoaO
@@ -29,31 +32,46 @@ CyberSec Company ->
 Abnormal Security Feeds -> https://t.me/joinchat/RPMrA7aNVkOZNIIH
 AlienVault Security Feeds -> https://t.me/joinchat/SO5YzcIYloLrUML0
 AlienVault Security Feeds -> https://t.me/joinchat/SO5YzcIYloLrUML0
+Binary Defense Security Feeds -> https://t.me/joinchat/WMvnC1GpaHXxiQi5
 Bitdefender Labs Security Feeds -> https://t.me/joinchat/RxhpKiVoo6B5yCsC
+Bushidotoken Security Feeds -> https://t.me/joinchat/WPM6tblkdp86yIZw
 Certego Security Feeds -> https://t.me/joinchat/WHMozU2pThf1lIrTv
+Certego Threat Intel Security Feeds -> https://t.me/joinchat/Rwb4Uo3Ytv25VYQI
+Check Point Advisories Security Feeds -> https://t.me/joinchat/RaFTWSG0qCS5tP0V
 Check Point Research Security Feeds -> https://t.me/joinchat/THWpHolF6lNpctbk
 ClearSky Security Feeds -> https://t.me/joinchat/QxL_GrOfk5pP59ft
 Confiant Security Feeds -> https://t.me/joinchat/WKMh4pL-zmisuxXt
+CyCraft Security Feeds -> https://t.me/joinchat/R49eWI9iNxMX7m--
 Cyble Security Feeds -> https://t.me/joinchat/WVqhBT9yUXdqoKMu
+Cyble Security Feeds -> https://t.me/joinchat/WVqhBT9yUXdqoKMu
+Eset Research Security Feeds -> https://t.me/joinchat/TejucW3oEkdvmI9B
 Eset Security Feeds -> https://t.me/joinchat/WA-n8DTXNlqaGdsX
 F-Secure Security Feeds -> https://t.me/joinchat/WFCe7Mwn246da7uG
 Fortinet Security Feeds -> https://t.me/joinchat/Ro70famnr2xGUhZt
+Group-IB Security Feeds -> https://t.me/joinchat/Vpzok4BtRTK2X6aQ
 Guardicore Security Feeds -> https://t.me/joinchat/TcHaJ7cirffl-9I4
 Intel471 Security Feeds -> https://t.me/joinchat/Rh9Pumwzdc7mwq04
 Intezer Security Feeds -> https://t.me/joinchat/UEGf-Hullla6I4ip
+Johannersbader Security Feeds -> https://t.me/joinchat/VLydUjIchpzBjeGN
 Kaspersky Security Feeds -> https://t.me/joinchat/SuXXsmPQb0eHo0DF
-Malwarebytes Security Feeds -> https://t.me/joinchat/VUo2GujUvcP11_SJ
+Malware Traffic Analysis Security Feeds -> https://t.me/joinchat/UUvOdSA9rSrDWq-l
 Malwarebytes Security Feeds -> https://t.me/joinchat/VUo2GujUvcP11_SJ
 Pan Unit42 Security Feeds -> https://t.me/joinchat/TFb4jHjxr61UM_OA
 Positive Technologies Security Feeds -> https://t.me/joinchat/TCe0C8IDZcZu6UET
+Project Zero Security Feeds -> https://t.me/joinchat/SVklnOoXcRb2HRX6
 ReaQta Security Feeds -> https://t.me/joinchat/Vr7u_xKl32mpxGyy
 Reversing Labs Security Feeds -> https://t.me/joinchat/S4BQF_ZZnPinlAV6
+Security Intelligence Feeds -> https://t.me/joinchat/SaoRjdZ8zwZMzX4m
+Sentinel One Security Feeds -> https://t.me/joinchat/UZqf8MahiOm4OAmw
+Seqrite Security Feeds -> https://t.me/joinchat/UmOJ1_rgSOufWLgY
 Sophos Labs Security Feeds -> https://t.me/joinchat/Vm3GDdJcOcc7ctu0
 Swascan Security Feeds -> https://t.me/joinchat/UihzryHmtPPaVgC4
 TG Soft Security Feeds -> https://t.me/joinchat/Uc30ikkk04w3h2bI
 Talos Security Feeds -> https://t.me/joinchat/SsEfmEzQIB-3OLdh
 Telsy Security Feeds -> https://t.me/joinchat/SkRHDx8GYTR_Pp-Q
+Trendmicro Security Feeds -> https://t.me/joinchat/T5GiADlhQqElYyQo
 Yoroi Security Feeds -> https://t.me/joinchat/Q8h6x-4_YRF3yQga
+Zero Day Initiative Security Feeds -> https://t.me/joinchat/WFlxkKzRc4aplfMc
 Zscaler Security Feeds -> https://t.me/joinchat/T21KKYBqE0p5l0lX
 
 Product -> 
@@ -63,6 +81,7 @@ Huawei Security Feeds -> https://t.me/joinchat/S42UUDd67SJqsFhF
 Nextcloud Security Feeds -> https://t.me/joinchat/VCTgTChnuQR4HsSv
 QNAP Security Feeds -> https://t.me/joinchat/SHF3IV0L2HqP9LtD
 Qualcomm Security Feeds -> t.me/qualcommsecurityfeeds
+Siemens ProductCERT Security Feeds -> https://t.me/joinchat/VFCvHRLJUIpp_QuW
 Synology Security Feeds -> https://t.me/joinchat/SXN3MJjCc2x6cwee
 VMware Security Feeds -> https://t.me/joinchat/V5D8NClT02jhhS4g
 
@@ -74,7 +93,9 @@ Beyond Parallel Feeds -> https://t.me/joinchat/WEdYkGYZtGAigDaa
 BleepingComputer Feeds -> https://t.me/joinchat/R_wdNDAcSzvGu8JO
 Citizen Lab Feeds -> https://t.me/joinchat/URcGUfE1xFvtAoen
 CyberScoop Feeds -> https://t.me/joinchat/RqncJ1sd2bYhHhcN
+CyberSecurity360 Feeds -> https://t.me/joinchat/SF0KQPij0qHRCleO
 DFRLab Feeds -> https://t.me/joinchat/Sh_c3aPw_XI0wrVX
+Deadly Lynn Security Feeds -> https://t.me/joinchat/U-NEXUmeTl0aAuWX
 Difesa & Sicurezza Feeds -> https://t.me/joinchat/UR1DHNPSQ3dwyK-_
 Eurojust Feeds -> https://t.me/joinchat/VExH-3KUcnMFXL9k
 Europol Feeds -> https://t.me/joinchat/TY58gux84tI8lufi
@@ -89,6 +110,7 @@ Intrusion Truth Security Feeds -> https://t.me/joinchat/SvASoSw2F6YwdLkT
 It's FOSS Feeds -> https://t.me/joinchat/S4MP4BJhrV9gbhBW
 Krebs on Security Feeds -> https://t.me/joinchat/S7mO5B-mn8D3CO_1
 Lffl Feeds -> https://t.me/joinchat/SvMlloXwxqzN6HWq
+Marco Ramilli Security Feeds -> https://t.me/joinchat/ULMOClV4sQpIOzsb
 Mia Mamma Usa Linux Feeds -> https://t.me/joinchat/TQFQ7E8siiFYxge8
 Military Columnist Feeds -> https://t.me/joinchat/ROuzNasDCy0eZVXS
 OCCRP Feeds -> https://t.me/joinchat/Sy9HtSfUCP48vsj8
@@ -96,14 +118,18 @@ OMG Ubuntu Feeds -> https://t.me/joinchat/TsAQBih-iIIR9frz
 Open Fact-Checking Feeds -> https://t.me/joinchat/VTCmqR4tuFFpd4tc
 Phoronix Feeds -> https://t.me/joinchat/R0_J2-OktFT-Hl_s
 Polizia Postale Feeds -> https://t.me/joinchat/UauXufwK4O1S35dk
+Polizia di Stato Feeds -> https://t.me/joinchat/SCe2hltFyXdsWwcf
+Punto Informatico Feeds -> https://t.me/joinchat/RAEcwzDFVJweKrFR
 Schneier on Security Feeds -> https://t.me/joinchat/WHJz0XR9aPOtNL1y
 Security Affairs Security Feeds -> https://t.me/joinchat/Tw-ARndPPlx5Z3-m
+SecurityInfo Feeds -> https://t.me/joinchat/VUHXRTVHZIiLL0Ce
 SecurityWeek Feeds -> https://t.me/joinchat/UgeL04d7_TN77P4J
 TechNadu Feeds -> https://t.me/joinchat/T4pWkVDlS77JffYX
 The Defense Post Feeds -> https://t.me/joinchat/VaioNLPdwBB_stfC
 The Hacker News Feeds -> https://t.me/joinchat/T8kN2uc__21VEG53
 Threatpost Feeds -> https://t.me/joinchat/RstLtHEl_2EBglLx
 Torrentfreak Feeds -> https://t.me/joinchat/SAtr5qBpjC2UHx5h
+Una al Dia Feeds -> https://t.me/joinchat/Vyj6Lyu4yCyrlMd6
 Valigia Blu Feeds -> https://t.me/joinchat/RyEPUS28HOcD4r5h
 
 Linux Distro -> 

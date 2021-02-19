@@ -1,5 +1,4 @@
 National CERT ->
-BtCIRT Security Feeds -> https://t.me/joinchat/Q1rXCpY5e5Mc38PW
 CERT-AGID Security Feeds -> https://t.me/joinchat/R2znNV_B6vLQvmgt
 CERT-FR ICS Security Feeds -> https://t.me/joinchat/V1XnJszqWTbeP5EJ
 CERT-FR Security Feeds -> https://t.me/joinchat/S8HfXitrShOQppia
@@ -15,7 +14,6 @@ INCIBE-CERT Security Feeds -> https://t.me/joinchat/V_FCr2Q_iEtHtaDr
 INCIBE-ICS CERT Security Feeds -> https://t.me/joinchat/R-TlESQneTw0qlzT
 JPCERT/CC Security Feeds -> https://t.me/joinchat/WBFqCNEOv3USka0R
 JVN Security Feeds -> https://t.me/joinchat/VBb9Bzql4neajnwq
-MyCERT Security Feeds -> https://t.me/joinchat/TCbPViYgq5HIim8z
 NCSC NL Security Feeds -> https://t.me/joinchat/VJzP4mJbrad1oxME
 NCSC UK Security Feeds -> https://t.me/joinchat/Qvyu51jlk_3kAm2S
 US-Cert Security Feeds -> https://t.me/joinchat/UFVNKpNJFiFeVg8h

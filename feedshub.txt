@@ -29,7 +29,6 @@ CyberSec Company ->
 360 Total Security Feeds -> https://t.me/joinchat/T9fFs9dp0HALUX-e
 Abnormal Security Feeds -> https://t.me/joinchat/RPMrA7aNVkOZNIIH
 AlienVault Security Feeds -> https://t.me/joinchat/SO5YzcIYloLrUML0
-AlienVault Security Feeds -> https://t.me/joinchat/SO5YzcIYloLrUML0
 Binary Defense Security Feeds -> https://t.me/joinchat/WMvnC1GpaHXxiQi5
 Bitdefender Labs Security Feeds -> https://t.me/joinchat/RxhpKiVoo6B5yCsC
 Bushidotoken Security Feeds -> https://t.me/joinchat/WPM6tblkdp86yIZw
@@ -40,7 +39,6 @@ Check Point Research Security Feeds -> https://t.me/joinchat/THWpHolF6lNpctbk
 ClearSky Security Feeds -> https://t.me/joinchat/QxL_GrOfk5pP59ft
 Confiant Security Feeds -> https://t.me/joinchat/WKMh4pL-zmisuxXt
 CyCraft Security Feeds -> https://t.me/joinchat/R49eWI9iNxMX7m--
-Cyble Security Feeds -> https://t.me/joinchat/WVqhBT9yUXdqoKMu
 Cyble Security Feeds -> https://t.me/joinchat/WVqhBT9yUXdqoKMu
 Eset Research Security Feeds -> https://t.me/joinchat/TejucW3oEkdvmI9B
 Eset Security Feeds -> https://t.me/joinchat/WA-n8DTXNlqaGdsX
